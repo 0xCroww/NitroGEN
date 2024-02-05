@@ -1,0 +1,25 @@
+{
+  "name": "nitro_generator_and_checker",
+  "version": "2.4.1",
+  "description": "This is nitro generator and checker working with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nitro",
+    "discord nitro",
+    "nitro generator",
+    "nitro generator checker"
+  ],
+  "author": "0xCroww",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cli-color": "^2.0.3",
+    "discord-webhook-node": "^1.1.8",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security"
+  }
+}
